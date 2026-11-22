@@ -1,0 +1,326 @@
+{
+  "company": {
+    "name": "Box & Go Költöztetés",
+    "shortName": "Box & Go",
+    "owners": "Angyal Roland & Csernus Tibor",
+    "city": "Cegléd",
+    "area": "Cegléd, Pest megye és országosan",
+    "phones": [
+      "+36 30 869 1119",
+      "+36 30 967 7218"
+    ],
+    "email": "boxandgokoltoztetes@gmail.com",
+    "facebook": "https://www.facebook.com/boxandgokoltoztetes",
+    "hours": "Hétvégén is elérhetők vagyunk"
+  },
+  "hero": {
+    "badge": "Fiatalos, lendületes, megbízható csapat",
+    "titleTop": "Te csak",
+    "titleRotate": [
+      "pakold be.",
+      "dőlj hátra.",
+      "mutasd az utat.",
+      "nézd, ahogy repül."
+    ],
+    "titleBottom": "A többit mi visszük.",
+    "subtitle": "Lakossági költöztetés, bútorszállítás és áruházi fuvar Cegléden, Pest megyében és országszerte. Tiszta raktér, fix árak, sérülésmentes szállítás.",
+    "ctaPrimary": "Kérj ajánlatot",
+    "ctaSecondary": "Számold ki az árat",
+    "image": "img/furgon-este.webp"
+  },
+  "marquee": [
+    "Költöztetés",
+    "Bútorszállítás",
+    "IKEA fuvar",
+    "Lomtalanítás",
+    "Bútorszerelés",
+    "Marketplace vételek",
+    "Hagyatékfelszámolás",
+    "Országosan"
+  ],
+  "stats": [
+    {
+      "value": 100,
+      "suffix": "%",
+      "label": "sérülésmentes szállításra törekszünk"
+    },
+    {
+      "value": 7,
+      "suffix": "/7",
+      "label": "hétvégén is hívható"
+    },
+    {
+      "value": 19,
+      "suffix": "",
+      "label": "vármegye – országos lefedettség"
+    },
+    {
+      "value": 2,
+      "suffix": " fő",
+      "label": "rutinos, összeszokott csapat"
+    }
+  ],
+  "services": [
+    {
+      "icon": "truck",
+      "title": "Költöztetés, bútorszállítás",
+      "desc": "Garzontól a családi házig: gondos csomagolás, takarózás, rögzítés és pontos érkezés.",
+      "price": "45 000 Ft-tól"
+    },
+    {
+      "icon": "cart",
+      "title": "Áruházi házhozszállítás",
+      "desc": "IKEA, Mömax, Praktiker, Bauhaus – megvetted, mi hazavisszük, akár még aznap.",
+      "price": "12 000 Ft-tól"
+    },
+    {
+      "icon": "wrench",
+      "title": "Bútorszerelés",
+      "desc": "Lapraszerelt bútor össze- és szétszerelése, hogy az új otthonod azonnal használható legyen.",
+      "price": "7 000 Ft / óra"
+    },
+    {
+      "icon": "trash",
+      "title": "Lomtalanítás, hagyatékfelszámolás",
+      "desc": "Pince, padlás, teljes lakás kiürítése diszkréten és gyorsan, elszállítással együtt.",
+      "price": "egyedi árajánlat"
+    },
+    {
+      "icon": "tag",
+      "title": "Marketplace & Jófogás fuvar",
+      "desc": "Megtaláltad álmaid kanapéját egy hirdetésben? Elhozzuk és felvisszük helyetted.",
+      "price": "15 000 Ft-tól"
+    },
+    {
+      "icon": "map",
+      "title": "Országos fuvarozás",
+      "desc": "Cegléd és Pest megye a bázisunk, de az ország bármely pontjára vállalunk szállítást.",
+      "price": "km alapú díj"
+    }
+  ],
+  "why": [
+    {
+      "icon": "shield",
+      "title": "Megbízhatóság és pontosság",
+      "desc": "Értékei biztonságban, bútorai sérülésmentesen érkeznek meg."
+    },
+    {
+      "icon": "bolt",
+      "title": "Gyors és szakszerű költöztetés",
+      "desc": "Levesszük a költözés terhét a válláról – szó szerint."
+    },
+    {
+      "icon": "heart",
+      "title": "Teljeskörű segítség",
+      "desc": "Gondoskodunk róla, hogy a költözés gördülékeny és stresszmentes legyen."
+    },
+    {
+      "icon": "sparkle",
+      "title": "Tiszta raktér, fix árak",
+      "desc": "Nincs rejtett költség és nincs koszos platón utazó kanapé."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Hívsz vagy írsz",
+      "desc": "Telefonon, Messengeren vagy az ajánlatkérő űrlapon."
+    },
+    {
+      "title": "Fix ajánlatot kapsz",
+      "desc": "Átbeszéljük a részleteket, és előre tudod, mennyit fizetsz."
+    },
+    {
+      "title": "Mi pakolunk és viszünk",
+      "desc": "Takarózás, rögzítés, óvatos kezelés – a te dolgod csak irányítani."
+    },
+    {
+      "title": "Kész is vagy",
+      "desc": "Mindent a helyére teszünk, kérésre össze is szereljük."
+    }
+  ],
+  "pricing": {
+    "title": "Átlátható árak, meglepetések nélkül",
+    "note": "A feltüntetett árak tájékoztató jellegűek, bruttó összegek. A pontos, fix árat a részletek ismeretében adjuk meg.",
+    "packages": [
+      {
+        "name": "Áruházi fuvar",
+        "price": "12 000",
+        "unit": "Ft-tól",
+        "highlight": false,
+        "features": [
+          "Cegléden és környékén",
+          "1 fő segítő",
+          "Bútor felvitele lakásig",
+          "Hétvégén is"
+        ]
+      },
+      {
+        "name": "Kis költözés",
+        "price": "45 000",
+        "unit": "Ft-tól",
+        "highlight": true,
+        "badge": "Legnépszerűbb",
+        "features": [
+          "Garzon / 1 szobás lakás",
+          "Furgon + 2 fő",
+          "Takarózás és rögzítés",
+          "Szét- és összeszerelés kérésre"
+        ]
+      },
+      {
+        "name": "Nagy költözés",
+        "price": "80 000",
+        "unit": "Ft-tól",
+        "highlight": false,
+        "features": [
+          "2+ szobás lakás, családi ház",
+          "Furgon + 2–3 fő",
+          "Több forduló egy napon",
+          "Csomagolóanyag igény szerint"
+        ]
+      }
+    ]
+  },
+  "calculator": {
+    "enabled": true,
+    "title": "Árkalkulátor",
+    "subtitle": "Húzd a csúszkákat, és nézd meg, nagyjából mennyibe kerül a fuvarod.",
+    "baseFee": 8000,
+    "hourlyRate": 12000,
+    "extraHelperHourly": 4000,
+    "perKm": 250,
+    "freeKm": 10,
+    "floorFee": 2000,
+    "assemblyHourly": 7000,
+    "packingMaterial": 6000,
+    "weekendPercent": 0,
+    "minFee": 12000,
+    "sizes": [
+      {
+        "label": "Pár darab bútor",
+        "hours": 1
+      },
+      {
+        "label": "Garzon",
+        "hours": 3
+      },
+      {
+        "label": "1–2 szobás lakás",
+        "hours": 5
+      },
+      {
+        "label": "3+ szobás lakás / ház",
+        "hours": 8
+      }
+    ]
+  },
+  "van": {
+    "title": "Ismerd meg a furgonunkat",
+    "desc": "Magas tetős, hosszított Fiat Ducato maxi – akkora raktérrel, hogy egy egész lakás kényelmesen elfér benne. A raktér mindig tiszta, a rakományt takarókkal és spanifer szalagokkal rögzítjük.",
+    "specs": [
+      {
+        "label": "Típus",
+        "value": "Fiat Ducato maxi"
+      },
+      {
+        "label": "Raktér",
+        "value": "kb. 13 m³"
+      },
+      {
+        "label": "Kivitel",
+        "value": "Magas tető, hosszított"
+      },
+      {
+        "label": "Felszerelés",
+        "value": "Takarók, hevederek, molnárkocsi"
+      }
+    ],
+    "image": "img/rakter.webp"
+  },
+  "problem": {
+    "title": "Ismerős a helyzet?",
+    "text": "Hétvégén vetted meg az új kanapét, szekrényt vagy hűtőt, és rájöttél, hogy a személyautó mégsem akkora, mint hitted? Ne kockáztasd a csomagtérajtót és a bútor épségét – bízd ránk a cipekedést és a szállítást!",
+    "image": "img/aruhazi-fuvar.webp",
+    "cta": "Inkább hívlak titeket"
+  },
+  "gallery": [
+    {
+      "src": "img/furgon-este.webp",
+      "alt": "A Box & Go furgonja esti fényben"
+    },
+    {
+      "src": "img/rakter.webp",
+      "alt": "Tiszta, üres raktér"
+    },
+    {
+      "src": "img/furgon-oldal.webp",
+      "alt": "A furgon oldalnézetből"
+    },
+    {
+      "src": "img/furgon-elol.webp",
+      "alt": "A furgon elölnézetből"
+    },
+    {
+      "src": "img/szorolap.webp",
+      "alt": "Box & Go szórólap"
+    },
+    {
+      "src": "img/aruhazi-fuvar.webp",
+      "alt": "Túlpakolt személyautó áruház parkolójában"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Mennyi idővel előre kell foglalni?",
+      "a": "Minél előbb, annál biztosabb, de sokszor akár másnapra vagy még aznapra is be tudunk ugrani. Hívj, és megnézzük!"
+    },
+    {
+      "q": "Hétvégén is dolgoztok?",
+      "a": "Igen, hétvégén is elérhetők vagyunk Cegléden és egész Pest megyében."
+    },
+    {
+      "q": "Mi van, ha valami megsérül?",
+      "a": "Minden bútort takarókkal védünk és hevederekkel rögzítünk, hogy épségben érkezzen. Ha mégis gond lenne, korrekt módon rendezzük."
+    },
+    {
+      "q": "Szétszerelitek és összerakjátok a bútorokat?",
+      "a": "Igen, a bútorszerelést külön szolgáltatásként is vállaljuk, de költözés közben is kérheted."
+    },
+    {
+      "q": "Hogyan fizethetek?",
+      "a": "Készpénzzel vagy átutalással, a munka elvégzése után."
+    },
+    {
+      "q": "Vidékre / más megyébe is mentek?",
+      "a": "Igen, országos lefedettséggel dolgozunk. A távolsági fuvarnál km alapon számolunk."
+    }
+  ],
+  "contact": {
+    "title": "Kérj ingyenes ajánlatot",
+    "subtitle": "Írd meg, mit és honnan hová kell vinni – rövid időn belül visszahívunk egy fix árral.",
+    "serviceOptions": [
+      "Költöztetés",
+      "Áruházi fuvar",
+      "Bútorszerelés",
+      "Lomtalanítás",
+      "Marketplace / Jófogás fuvar",
+      "Egyéb"
+    ]
+  },
+  "sections": {
+    "stats": true,
+    "services": true,
+    "problem": true,
+    "why": true,
+    "steps": true,
+    "pricing": true,
+    "calculator": true,
+    "van": true,
+    "gallery": true,
+    "faq": true
+  },
+  "seo": {
+    "title": "Box & Go Költöztetés – Cegléd, Pest megye, országosan",
+    "description": "Fiatalos, lendületes és megbízható költöztető csapat. Lakossági költöztetés, bútorszállítás, áruházi fuvar, bútorszerelés és lomtalanítás Cegléden, Pest megyében és országszerte."
+  }
+}
