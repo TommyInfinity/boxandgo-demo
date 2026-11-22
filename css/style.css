@@ -148,7 +148,7 @@ a.mini-card:hover { transform: translateY(-3px); }
 .float-box { position: absolute; width: 46px; height: 38px; background: var(--kraft-l); border: 2.5px solid var(--ink); border-radius: 3px; opacity: .9; animation: floaty 9s ease-in-out infinite; }
 .float-box::after { content: ""; position: absolute; left: 50%; top: -2px; width: 10px; height: 16px; background: var(--cream); transform: translateX(-50%); border-inline: 2px solid var(--ink); }
 .fb1 { top: 20%; left: 46%; transform: rotate(-14deg); }
-.fb2 { top: 70%; left: 6%; width: 34px; height: 28px; animation-delay: -3s; }
+.fb2 { top: 88%; left: 12%; width: 34px; height: 28px; animation-delay: -3s; }
 .fb3 { top: 14%; right: 4%; width: 30px; height: 24px; animation-delay: -6s; }
 @keyframes floaty { 50% { transform: translateY(-24px) rotate(10deg); } }
 .road { position: absolute; left: 0; right: 0; bottom: 34px; height: 54px; }
